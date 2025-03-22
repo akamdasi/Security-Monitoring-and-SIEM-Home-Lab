@@ -24,7 +24,7 @@ The home-lab set up is designed with VMware workstation.
    - [Proxmox VE](https://www.proxmox.com/en/) (Free and Open Source)  
 
 2. **Resources:**  
-    - **Ubuntu Server ISO**: [Ubuntu 22.04](https://ubuntu.com/download/server)  
+    - **Ubuntu Server ISO**: [Ubuntu 24.04](https://ubuntu.com/download/server/thank-you?version=24.04.2&architecture=amd64&lts=true)  
    - **Windows ISO**: [Windows Server Evaluation](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server)  
    - **Splunk Software**:  
      - [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html)  

@@ -64,7 +64,7 @@ The home-lab set up is designed with VMware workstation.
 #### **Step 4: Install Splunk on Main Server**
 1.  Download and install Splunk Enterprise:
   ```
-  wget -O splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb "https://download.splunk.com/products/splunk/releases/9.4.0/linux/splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb"
+  wget -O splunk-9.4.1-e3bdab203ac8-linux-amd64.deb "https://download.splunk.com/products/splunk/releases/9.4.1/linux/splunk-9.4.1-e3bdab203ac8-linux-amd64.deb"
   sudo dpkg -i splunk-9.4.0-6b4ebe426ca6-linux-amd64.deb
   cd /opt/splunk/bin
   sudo ./splunk start
